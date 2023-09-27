@@ -9,6 +9,8 @@
         <img src="./Frame-19svg.svg" alt="svg">
         <img src="./Frame-19svg.svg" alt="svg">
         <img src="./Frame-19svg.svg" alt="svg">
+        <img src="./Frame-19svg.svg" alt="svg">
+        <img src="./Frame-19svg.svg" alt="svg">
     </div>
 </div>
 <!--
