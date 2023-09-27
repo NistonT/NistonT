@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://github.com/NistonT/NistonT/blob/main/media/d4dj-anime.gif)]
+![Header](https://github.com/NistonT/NistonT/blob/main/media/d4dj-anime.gif)
 
 <!--
 **NistonT/NistonT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
