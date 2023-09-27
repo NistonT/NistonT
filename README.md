@@ -1,8 +1,13 @@
 <div>
-    <div style="width: 100%; display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: center;">
         <img src="./media/d4dj-anime.gif" alt="gif">
     </div>
     <div style=" display: flex; justify-content: center;">
+        <img src="./Frame-19svg.svg" alt="svg">
+        <img src="./Frame-19svg.svg" alt="svg">
+        <img src="./Frame-19svg.svg" alt="svg">
+        <img src="./Frame-19svg.svg" alt="svg">
+        <img src="./Frame-19svg.svg" alt="svg">
         <img src="./Frame-19svg.svg" alt="svg">
     </div>
 </div>
