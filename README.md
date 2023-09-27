@@ -1,5 +1,5 @@
 <div style="width: 100%; display: flex; justify-content: center;">
-    ![gif](https://github.com/NistonT/NistonT/blob/main/media/d4dj-anime.gif)
+    <img src="./media/d4dj-anime.gif" alt="">
 </div>
 <!--
 **NistonT/NistonT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
