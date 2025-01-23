@@ -1,25 +1,75 @@
-<div>
-    <div style="display: flex; justify-content: center;">
-        <img src="./media/d4dj-anime.gif" alt="gif">
-    </div>
-    <div style=" display: flex; justify-content: center;">
-        <div>
-            <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
-        </div>
-    </div>
+<div align="center">
+    <img src="./media/d4dj-anime.gif" alt="Animated GIF" width="200"/>
+    <h1>Привет, меня зовут [Ваше имя] 👋</h1>
+    <p>Я Full-stack разработчик с опытом в создании современных веб-приложений.</p>
 </div>
-<!--
-**NistonT/NistonT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Технологии и инструменты
+
+<div align="center">
+
+#### **Языки программирования**
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
+
+#### **Frontend**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jotai-white?style=for-the-badge&logo=''&logoColor=black"/>
+<img src="https://img.shields.io/badge/SWR-black?style=for-the-badge&logo=swr&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Redux Toolkit-white?style=for-the-badge&logo=redux&logoColor=764ABC"/>
+
+#### **Backend**
+<img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black"/>
+<img src="https://img.shields.io/badge/NestJs-black?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+#### **Другие инструменты**
+<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/VS code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black"/>
+
+</div>
+
+---
+
+### 📊 Статистика GitHub
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NistonT&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NistonT&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+### 📫 Как со мной связаться
+
+- **Email**: nisprogrammer@gmail.com
+- **Telegram**: https://t.me/pashaduroZOV
+
+---
+
+### 💼 Проекты
+
+Вот несколько моих проектов:
+
+- **[Car rental](https://github.com/NistonT/car-rental)**
+- **[Anime application](https://github.com/NistonT/anime-application)**
+- **[News wall](https://github.com/NistonT/news-wall)**
+
+---
