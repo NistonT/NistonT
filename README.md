@@ -1,16 +1,16 @@
 <div align="center">
     <img src="./media/d4dj-anime.gif" alt="Animated GIF" width="200"/>
-    <h1>Привет, меня зовут [Ваше имя] 👋</h1>
-    <p>Я Full-stack разработчик с опытом в создании современных веб-приложений.</p>
+    <h1>Hi, my name is Timur 👋</h1>
+    <p>I'm a Full-stack developer with experience in building modern web applications.</p>
 </div>
 
 ---
 
-### 🛠️ Технологии и инструменты
+### 🛠️ Technologies and Tools
 
 <div align="center">
 
-#### **Языки программирования**
+#### **Programming Languages**
 <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-#### **Другие инструменты**
+#### **Other Tools**
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/VS code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 GitHub Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NistonT&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -57,16 +57,16 @@
 
 ---
 
-### 📫 Как со мной связаться
+### 📫 How to Reach Me
 
 - **Email**: nisprogrammer@gmail.com
 - **Telegram**: https://t.me/pashaduroZOV
 
 ---
 
-### 💼 Проекты
+### 💼 Projects
 
-Вот несколько моих проектов:
+Here are some of my projects:
 
 - **[Car rental](https://github.com/NistonT/car-rental)**
 - **[Anime application](https://github.com/NistonT/anime-application)**
