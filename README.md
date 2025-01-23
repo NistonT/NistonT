@@ -3,14 +3,10 @@
         <img src="./media/d4dj-anime.gif" alt="gif">
     </div>
     <div style=" display: flex; justify-content: center;">
-        <img src="./Frame-19svg.svg" alt="svg">
-        <img src="./Frame-19svg.svg" alt="svg">
-        <img src="./Frame-19svg.svg" alt="svg">
-        <img src="./Frame-19svg.svg" alt="svg">
-        <img src="./Frame-19svg.svg" alt="svg">
-        <img src="./Frame-19svg.svg" alt="svg">
-        <img src="./Frame-19svg.svg" alt="svg">
-        <img src="./Frame-19svg.svg" alt="svg">
+        <div>
+            <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
+        </div>
     </div>
 </div>
 <!--
