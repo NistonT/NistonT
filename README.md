@@ -60,7 +60,7 @@
 ### 📫 How to Reach Me
 
 - **Email**: nisprogrammer@gmail.com
-- **Telegram**: https://t.me/pashaduroZOV
+- **Telegram**: https://t.me/nistontimur
 
 ---
 
