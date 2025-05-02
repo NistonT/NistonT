@@ -24,16 +24,12 @@
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=''&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jotai-white?style=for-the-badge&logo=''&logoColor=black"/>
-<img src="https://img.shields.io/badge/SWR-black?style=for-the-badge&logo=swr&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Redux Toolkit-white?style=for-the-badge&logo=redux&logoColor=764ABC"/>
 
 #### **Backend**
 <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black"/>
 <img src="https://img.shields.io/badge/NestJs-black?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=C5F74F"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -42,7 +38,6 @@
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/VS code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/pycharm-white?style=for-the-badge&logo=pycharm&logoColor=black"/>
 
 </div>
 
