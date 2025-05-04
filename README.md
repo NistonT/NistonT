@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/VS code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/IntelliJ IDEA-white?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
 </div>
 
 ---
