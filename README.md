@@ -67,6 +67,9 @@ Here are some of my projects:
 - **[Car rental](https://github.com/NistonT/car-rental)**
 - **[Anime application](https://github.com/NistonT/anime-application)**
 - **[News wall](https://github.com/NistonT/news-wall)**
+- **[Demo](https://github.com/NistonT/demo)**
+- **[Schedule generator](https://github.com/NistonT/schedule-generator)**
+- **[Prodcuts](https://github.com/NistonT/products)**
 
 ---
 
