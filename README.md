@@ -26,6 +26,16 @@
 <img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=''&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jotai-white?style=for-the-badge&logo=''&logoColor=black"/>
 <img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/vidstack-black?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/dayjs-white?style=for-the-badge&logo=''&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/hls.js-white?style=for-the-badge&logo=''&logoColor=black"/>
+<img src="https://img.shields.io/badge/LucideReact-black?style=for-the-badge&logo=''&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/Motion-black?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sonner-black?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swiper-black?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/eslint-white?style=for-the-badge&logo=eslint&logoColor=#4B32C3"/>
+<img src="https://img.shields.io/badge/prettier-white?style=for-the-badge&logo=prettier&logoColor=#F7B93E"/>
+
 
 #### **Backend**
 <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black"/>
