@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/Motion-black?style=for-the-badge&logo=''&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sonner-black?style=for-the-badge&logo=''&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swiper-black?style=for-the-badge&logo=''&logoColor=white"/>
-<img src="https://img.shields.io/badge/eslint-white?style=for-the-badge&logo=eslint&logoColor=#4B32C3"/>
+<img src="https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint&logoColor=#4B32C3"/>
 <img src="https://img.shields.io/badge/prettier-white?style=for-the-badge&logo=prettier&logoColor=#F7B93E"/>
 
 
