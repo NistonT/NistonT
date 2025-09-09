@@ -35,7 +35,18 @@
 <img src="https://img.shields.io/badge/Swiper-black?style=for-the-badge&logo=''&logoColor=white"/>
 <img src="https://img.shields.io/badge/eslint-black?style=for-the-badge&logo=eslint&logoColor=#4B32C3"/>
 <img src="https://img.shields.io/badge/prettier-white?style=for-the-badge&logo=prettier&logoColor=#F7B93E"/>
-
+<img src="https://img.shields.io/badge/perfectPixel-gray?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/json--server-000000?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img src="https://img.shields.io/badge/FLUX-000000?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/Formik-000000?style=for-the-badge&logo=formik&logoColor=white"/>
+<img src="https://img.shields.io/badge/Yup-000000?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=''&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Async-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 
 #### **Backend**
 <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black"/>
@@ -50,6 +61,7 @@
 <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/VS code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-white?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
 ---
