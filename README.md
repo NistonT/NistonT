@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./media/d4dj-anime.gif" alt="Animated GIF" width="200"/>
-    <h1>Hello, my name is Timur</h1>
+    <h1>Hi, my name is Timur</h1>
     <p>I'm a Full-stack developer with experience in building modern web applications.</p>
 </div>
 
