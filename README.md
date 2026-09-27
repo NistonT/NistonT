@@ -85,13 +85,7 @@
 
 Here are some of my projects:
 
-- **[Help!!!](https://github.com/NistonT/help)**
-- **[Car rental](https://github.com/NistonT/car-rental)**
-- **[Anime application](https://github.com/NistonT/anime-application)**
-- **[News wall](https://github.com/NistonT/news-wall)**
-- **[Demo](https://github.com/NistonT/demo)**
-- **[Schedule generator](https://github.com/NistonT/schedule-generator)**
-- **[Prodcuts](https://github.com/NistonT/products)**
+- **[music-redux-react-ts](https://github.com/NistonT/music-redux-react-ts)** https://music-redux-react-ts.vercel.app/
 
 ---
 
