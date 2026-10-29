@@ -63,7 +63,7 @@
 ### 📫 How to Reach Me
 
 - **Email**: nisprogrammer@gmail.com
-- **Telegram**: https://t.me/nistontimur
+- **Telegram**: https://t.me/niston
 
 ---
 
