@@ -42,6 +42,7 @@
 <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 
 #### **Backend**
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspnet&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black"/>
 <img src="https://img.shields.io/badge/NestJs-black?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
