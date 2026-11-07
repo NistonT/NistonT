@@ -71,6 +71,6 @@
 Here are some of my projects:
 
 - **[music-redux-react-ts](https://github.com/NistonT/music-redux-react-ts)** https://music-redux-react-ts.vercel.app/
-
+- **[company-x](https://github.com/NistonT/company-x)**
 ---
 
